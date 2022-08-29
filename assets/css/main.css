@@ -689,7 +689,7 @@
 }
 .author__name {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .author__count-sub {
